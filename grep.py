@@ -1,3 +1,7 @@
+
+# copyright (c) 2015 GalaxyJim
+# mit license.
+
 import sys
 import os
 import glob
